@@ -1,4 +1,4 @@
-package org.oracle.sun.java7.enhancements;
+package org.sun.oracle.java7.enhancements;
 
 import java.io.File;
 import java.io.FileNotFoundException;

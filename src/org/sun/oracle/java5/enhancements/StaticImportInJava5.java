@@ -1,4 +1,4 @@
-package org.oracle.sun.java5.enhancements;
+package org.sun.oracle.java5.enhancements;
 import static java.lang.Math.PI;
 import static java.lang.Math.sqrt;
 public class StaticImportInJava5 {

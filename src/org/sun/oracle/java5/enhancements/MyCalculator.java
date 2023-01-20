@@ -1,4 +1,4 @@
-package org.oracle.sun.java5.enhancements;
+package org.sun.oracle.java5.enhancements;
 
 class Calculator {
 
